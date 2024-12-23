@@ -1,0 +1,20 @@
+import pandas as pd 
+
+file = pd.read_json(r"C:\Users\ENG.omar\Desktop\oz.json")
+
+
+file.to_csv(r"C:\Users\ENG.omar\Desktop\oz.cvs")
+
+
+
+
+
+
+vajwal
+
+
+{
+    "name": ["omar zain"],
+    "age": 16 ,
+    "city": ["assut"]
+}
